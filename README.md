@@ -1,6 +1,6 @@
-# USD - TL Google Scrapper
+# USD - TL Google Scraper
 This project is developed by [enisfr](https://github.com/enisfr)   
-It is a nodejs API and used for scrapping TL currency against USD from google search. 
+It is a nodejs API and used for scraping TL currency against USD from google search. 
 It opens a websocket and updates the data every x seconds.
 
 
